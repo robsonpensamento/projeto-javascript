@@ -1,4 +1,3 @@
-# projeto-javascript
+Olá sou o professor Robson C. Bonetti
+Trabalho nos colégios estaduais Barão de Capanema e Antonio Witchimichen a disciplina de pensamento computacional.
 
-Equipe: Robson Bonetti e alunos da disciplina
-Professor: Robson Bonetti
